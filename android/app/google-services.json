@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804280292163",
+    "project_id": "woocommerce-manager-afa50",
+    "storage_bucket": "woocommerce-manager-afa50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804280292163:android:6f44307f899cafc43dd5f6",
+        "android_client_info": {
+          "package_name": "com.kellengineering.woocommerce_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fXujeA59Xo_B6jDK5rlLRMdXSBZiY4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
